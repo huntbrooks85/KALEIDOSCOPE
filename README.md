@@ -1,8 +1,6 @@
 <h1 align="center" id="title"> 🎨🖍️ KALEIDOSCOPE 🖍️🎨 </h1>
 <div align="center">
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10359982.svg)](https://doi.org/10.5281/zenodo.10359982)
-
 <p id="description"> <b>KALEIDOSCOPE</b> is a tool that utilizes synthetic photometry to generate optimal color-color diagrams using Root Median Absolute Deviation. Once users have chosen the desired colors, KALEIDOSCOPE will construct the color-color diagrams, photometric heatmaps, RMAD histograms, and a list of all RMAD calculations featuring both normal dwarfs and subdwarfs.</p>
 </div>
 
